@@ -1,1 +1,1 @@
-[![Sirspam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirspam&show_icons=true&theme=react&bg_color=45,2065a4,203c73)](https://github.com/anuraghazra/github-readme-stats) ![AquaDance](AquaDance.gif)
+[![Sirspam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirspam&show_icons=true&theme=react&bg_color=45,2065a4,203c73)](https://github.com/anuraghazra/github-readme-stats) <img src="AquaDance.gif" align="right">
