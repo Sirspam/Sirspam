@@ -1,4 +1,4 @@
-I'm a college student who likes to write the silly lines of code to make the silly computer do silly things.<img src="chocola_mini_sitting.png" align="right" width="128" height="128">
+I'm a college student who likes to write the silly lines of code to make the silly computer do silly things.
 
 Currently making mods for Beat Saber, which uses C# and Unity. I've also made Discord bots with Python, along with some general use programs
 
@@ -8,3 +8,4 @@ Currently making mods for Beat Saber, which uses C# and Unity. I've also made Di
 [![Sirspam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirspam&count_private=true&hide=issues&show_icons=true&theme=react&bg_color=60,246bce,ffcc00&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Sirspam's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirspam&layout=compact&theme=react&bg_color=60,246bce,ffcc00&hide_border=true&border_radius=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="chocola_mini_sitting.png" align="right" width="162" height="162">
