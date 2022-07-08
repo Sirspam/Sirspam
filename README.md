@@ -1,4 +1,4 @@
-I'm a college student who likes to write the silly lines of code to make the silly computer do silly things.
+I'm a UK college student who likes to write the silly lines of code to make the silly computer do silly things.
 
 Currently making mods for Beat Saber, which uses C# and Unity. I've also made Discord bots with Python, along with some general use programs
 
