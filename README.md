@@ -1,6 +1,6 @@
-I like to write silly lines of code to make the silly computer do silly things. Made the infamous Nya mod
+I write silly lines of code to make the silly computer do silly things.
 
-Experienced with C#, C++ and Python. Currently dabbling with React and TypeScript.
+Proficient in C#, experienced with C++ and Python. Familiar with React and TypeScript.
 
 [![X](https://img.shields.io/badge/Sirspamalot555--000000?logo=x&logoColor=white)](https://twitter.com/Sirspamalot555)
 [![Discord Server](https://img.shields.io/badge/Sirver--5865F2?&logo=Discord&logoColor=white)](https://discord.gg/dWX6fpGUK9)
